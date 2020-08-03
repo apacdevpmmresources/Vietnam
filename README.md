@@ -1,2 +1,2 @@
 # Vietnam
-This repo holds content for Vietnam regioon
+This repo holds content for developer events in Vietnam
